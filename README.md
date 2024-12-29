@@ -75,9 +75,18 @@ results_df = agent.backtesting(date, date)
 print(results_df)
 ```
 
+## Screenshots
+---
+<img width="1440" alt="Screenshot 2024-12-29 at 4 07 38 PM" src="https://github.com/user-attachments/assets/7134470d-dc18-4ac8-b0da-0fb46db0a01a" />
+---
+<img width="1440" alt="Screenshot 2024-12-29 at 4 07 49 PM" src="https://github.com/user-attachments/assets/2ac9fa11-0479-487e-a8d2-aa28f97c5408" />
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 ## Acknowledgments
 
