@@ -88,11 +88,6 @@ print(results_df)
 <img width="1440" alt="Screenshot 2024-12-29 at 4 07 10 PM" src="https://github.com/user-attachments/assets/a3c69c5e-3e5f-4c52-a412-c0d954aa6de7" />
 
 ---
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 
 ## Acknowledgments
 
